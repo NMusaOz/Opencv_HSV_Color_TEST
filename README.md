@@ -8,10 +8,15 @@ Renk Tespiti ve Maskeleme Uygulaması, Python programlama dili kullanılarak gel
 # Özellikler:
 
 Kullanıcı dostu arayüz: PyQt5 ile oluşturulmuş basit ve etkileşimli bir kullanıcı arayüzü.
+
 Dosya seçme: Kullanıcıya resim dosyalarını seçme ve yükleme imkanı sunar.
+
 Renk tespiti: HSV renk uzayında belirtilen alt ve üst sınırlar arasındaki renkleri tespit eder.
+
 Renk maskeleme: Belirlenen renk aralığındaki pikselleri maskeleyerek orijinal resimde sadece seçilen rengin görünmesini sağlar.
+
 Gerçek zamanlı güncelleme: Kullanıcı texbox'lara yeni değerler girdiğinde veya "Yenile" butonuna tıkladığında resimleri anında günceller.
+
 Özelleştirilebilirlik: Kullanıcı, renk tespiti için HSV renk uzayındaki alt ve üst sınırları kendisi belirleyebilir.
 
 # Kullanım:
